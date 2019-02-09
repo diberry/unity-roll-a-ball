@@ -1,14 +1,17 @@
 ﻿<Properties StartupConfiguration="{74EADB26-1B10-E93E-F758-3B56151CA51F}|">
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerController.cs">
     <Files>
-      <File FileName="Assets/Scripts/PlayerController.cs" Line="32" Column="1" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="26" Column="56" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/diberry/repos/unity/roll-a-ball/Assets/Scripts/PlayerController.cs" relfile="Assets/Scripts/PlayerController.cs" line="37" column="1" />
+      <Breakpoint file="/Users/diberry/repos/unity/roll-a-ball/Assets/Scripts/PlayerController.cs" relfile="Assets/Scripts/PlayerController.cs" line="39" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
